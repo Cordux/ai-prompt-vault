@@ -23,6 +23,7 @@ A clean, beautiful and powerful desktop prompt manager for Stable Diffusion user
 1. Download the repository
 2. Run: `python vault.py`
 3. (Optional) Build .exe with auto-py-to-exe or PyInstaller
+4. Or download the .exe file from [dist](https://github.com/Cordux/ai-prompt-vault/blob/main/dist)
 
 ### Screenshot
 ![Screenshot](https://github.com/user-attachments/assets/db66b28d-a74f-46df-817b-7b9fe801a4d8) <!-- Lägg till en skärmdump här -->
